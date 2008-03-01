@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2177
+
+This is an excerpt from R manual "Writing R Extensions" which is limited to section 3. "Writing R Documentation Files". It is a specification of the Rd format, available commands etc. For a full document look here: http://cran.r-project.org/doc/manuals/R-exts.html. The project's website is http://www.r-project.org/.
