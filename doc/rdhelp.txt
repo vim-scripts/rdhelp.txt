@@ -1,4 +1,4 @@
-*rdhelp.txt*	Writing R documentation files	Last change: 2008-03-02
+*rdhelp.txt* *rdhelp*  Writing R documentation files  Last change: 2009-10-16
 
 
 			Writing R Documentation files
